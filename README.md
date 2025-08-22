@@ -49,7 +49,7 @@ The project uses the following CSV files:
   <img width="1631" height="601" alt="Image" src="https://github.com/user-attachments/assets/f6bf4bf1-832e-40f5-969f-bc4561d3b37b" /> 
 
 - ✅ Determine the top 3 most ordered pizza types based on revenue  
-  <img width="915" height="753" alt="Image" src="https://github.com/user-attachments/assets/c9a37ab5-ada7-4380-bf95-915795527937" />
+  <img width="609" height="232" alt="Image" src="https://github.com/user-attachments/assets/0e421b32-0cac-49b4-a7a0-be0cb97d659c" />
 
 ---
 
